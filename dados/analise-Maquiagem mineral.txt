@@ -1,15 +1,15 @@
-Nome do Produto: Air Fryer Philips Walita
+Nome do Produto: Headphones Bluetooth Sony
 
-Resumo das Avaliações: As avaliações destacam consistentemente a eficiência e facilidade de uso da Air Fryer Philips Walita, além da qualidade dos alimentos preparados. No entanto, críticas sobre o alto preço e o tamanho do produto, que ocupa muito espaço na cozinha, também são comuns.
+Resumo das Avaliações: As avaliações elogiam a qualidade do som e o conforto dos Headphones Bluetooth Sony, bem como a durabilidade da bateria. No entanto, existem reclamações sobre a conexão Bluetooth ser instável e o microfone ser de má qualidade para chamadas.
 
-Sentimento Geral: Positivo
+Sentiment Geral: Positivo
 
 Pontos fortes:
-- Eficiência.
-- Facilidade de uso.
-- Qualidade dos alimentos preparados.
+- Qualidade de som.
+- Conforto.
+- Durabilidade da bateria.
 
 Pontos fracos:
-- Preço elevado.
-- Tamanho grande.
-- Necessidade de limpeza frequente.
+- Conexão Bluetooth instável.
+- Microfone de má qualidade para chamadas.
+- Preço alto.
