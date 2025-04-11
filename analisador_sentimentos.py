@@ -69,8 +69,8 @@ def analisador_sentimentos(produto):
     except openai.APIError as e:
         print(f"Erro de API: {e}")
     
-    texto_resposta = resposta.choices[0].message.content
+    #texto_resposta = resposta.choices[0].message.content
 
-    salva(f"./dados/analise-{produto}.txt", texto_resposta)
+    #salva(f"./dados/analise-{produto}.txt", texto_resposta)
 
 analisador_sentimentos("Maquiagem mineral")
